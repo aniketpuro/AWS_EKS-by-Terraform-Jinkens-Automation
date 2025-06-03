@@ -29,7 +29,7 @@ Before you start, ensure you have the following installed on your local machine:
 
 ```bash
 git clone https://github.com/aniketpuro/AWS_EKS-by-Terraform-Jinkens-Automation.git
-cd EKS-Terraform-Jenkins
+cd AWS_EKS-by-Terraform-Jinkens-Automation/
 ```
 
 ### 2. Run the Installer Script
