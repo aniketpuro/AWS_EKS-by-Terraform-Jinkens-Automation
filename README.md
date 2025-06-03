@@ -28,7 +28,7 @@ Before you start, ensure you have the following installed on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yeshwanthlm/EKS-Terraform-Jenkins.git
+git clone https://github.com/aniketpuro/AWS_EKS-by-Terraform-Jinkens-Automation.git
 cd EKS-Terraform-Jenkins
 ```
 
