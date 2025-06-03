@@ -4,7 +4,7 @@ This project is a complete setup for deploying an NGINX application on an AWS EK
 
 ## Prerequisites
 
-Before you start, ensure you have the following installed on your local machine:
+Before you start, ensure you have the following installed on your local machine
 
 - **Terraform**: v1.0.0 or higher
 - **AWS CLI**: v2.0 or higher
